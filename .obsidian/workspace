@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#理性",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,11 +130,15 @@
   },
   "active": "3a452e60fd436785",
   "lastOpenFiles": [
-    "评论区/“懂了”这个坏习惯了.md",
+    "titled/二舅.md",
     "titled/东方不败.md",
     "titled/感动.md",
-    "titled/二舅.md",
+    "README.md",
+    "评论区/“懂了”这个坏习惯了.md",
+    "2023-10-26.md",
+    "${}^{/text{天下第一}}$.md",
     "titled/Index.md",
-    "评论区/Index.md"
+    "评论区/Index.md",
+    "未命名.md"
   ]
 }
