@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "5bfd7d49fdb82509",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a452e60fd436785",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "titled/东方不败.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "176d415a55befe50",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6e4da754de05a7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8051c97a367c40ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f64edb497162468b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80cb3e666fad9829",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb132911e42c08e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bad6b7a4ac3958f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80d8bfd83f6e61c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "titled/东方不败.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a25e455e3bd44549",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "titled/东方不败.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41a888b08fdefe68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "46d6c5d896edc3df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "titled/东方不败.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3a452e60fd436785",
+  "lastOpenFiles": [
+    "评论区/“懂了”这个坏习惯了.md",
+    "titled/东方不败.md",
+    "${}^{/text{天下第一}}$.md",
+    "titled/Index.md",
+    "评论区/Index.md",
+    "未命名.md"
+  ]
+}
