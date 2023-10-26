@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "titled/东方不败.md",
+            "file": "titled/二舅.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "14767b217b35375d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "titled/二舅.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "titled/东方不败.md",
+                "file": "titled/二舅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "titled/东方不败.md",
+                "file": "titled/二舅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "titled/东方不败.md"
+                "file": "titled/二舅.md"
               }
             }
           }
@@ -130,15 +142,14 @@
   },
   "active": "3a452e60fd436785",
   "lastOpenFiles": [
+    "titled/感动.md",
     "titled/二舅.md",
     "titled/东方不败.md",
-    "titled/感动.md",
     "README.md",
     "评论区/“懂了”这个坏习惯了.md",
     "2023-10-26.md",
     "${}^{/text{天下第一}}$.md",
     "titled/Index.md",
-    "评论区/Index.md",
-    "未命名.md"
+    "评论区/Index.md"
   ]
 }
